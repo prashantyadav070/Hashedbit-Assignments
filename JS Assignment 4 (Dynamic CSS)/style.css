@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#text-container {
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.stylebt {
+    padding: 8px 12px;
+    margin-right: 5px;
+    cursor: pointer;
+}
